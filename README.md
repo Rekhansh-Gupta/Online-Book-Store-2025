@@ -1,10 +1,5 @@
-# <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> OnlineBookStore </a> 
 - A Java Web Developement Project
-- **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
-- **Youtube VIDEO** for local setup of tender management project: https://www.youtube.com/watch?v=7CE3aY4e644
-<!--Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)-->
-- User Login Credentials: (shashi/shashi)
-- Admin Login Credentials: (Admin/Admin)
+
 <hr>
 
 ### About
@@ -119,7 +114,7 @@ Step 6: Check Running The Site At  <a href="http://localhost:8083/onlinebookstor
 
 Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
 
-Step 8: The default Username And Password For User Is "shashi" And "shashi"
+Step 8: The default Username And Password For User Is "root" And "root"
 
 ## FAQ
 **Question:1** Unable to Connect to Database?
@@ -140,4 +135,5 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Rekhansh Gupta</b>
+
